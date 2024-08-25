@@ -1,0 +1,29 @@
+.all_drivers {
+  background-image: url('../../assets/images/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  display: grid;
+  grid-template-columns: 20vw 1fr;
+}
+
+.drivercontainer {
+  margin: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 35px;
+  grid-column: 2 / 3;
+  text-decoration: none;
+  justify-content: center;
+}
+
+.driver {
+  padding: 5px 0 5px 15px;
+  background-image: linear-gradient(to right, rgba(18, 31, 69, 0.7), rgba(77, 79, 112, 0.7), rgba(134, 133, 157, 0.7), rgba(194, 192, 205, 0.7), rgba(255, 255, 255, 0.5));
+  color: #ff1801;
+  width: 60vw;
+  border-radius: 10px;
+}
+
+label {
+  color: #fff;
+}

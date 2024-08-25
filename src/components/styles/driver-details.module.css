@@ -1,0 +1,20 @@
+.container {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(8, 0, 0);
+}
+
+.innerContainer {
+  margin-left: 10vw;
+}
+
+.innerContainer p {
+  font-size: 20px;
+}
+
+.innerContainer h1 {
+  font-size: 40px;
+}
+
+.innerContainer h2 {
+  font-size: 30px;
+}
