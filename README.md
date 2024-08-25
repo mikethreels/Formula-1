@@ -1,7 +1,7 @@
-# React calculator App
+# React Formula 1 app
 This is a Formula 1 information app build with React
 
-![screenshot](./src/images/app_screenshot1.png)
+![screenshot](./src/assets/images/background.jpg)
 
 
 ## Built With
@@ -15,14 +15,14 @@ This is a Formula 1 information app build with React
 
 ## Live Demo
 
-[Live Demo Link](https://formula1-mt.herokuapp.com/)
+[Live Demo Link](https://formula-1-6d2c9.web.app)
 
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-- Git clone https://github.com/mikethreels/formula1
+- Git clone https://github.com/mikethreels/formula-1
 - Move to the root directory in your command line
 - run `npm install`
 - run `npm start`
